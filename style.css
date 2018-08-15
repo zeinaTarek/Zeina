@@ -1,0 +1,14 @@
+#title{
+  color:#ffff00;
+}
+
+body{
+  background-color: black;
+  color:white;
+}
+
+img{
+  width: 60px;
+  height: 60px;
+  float:right;
+}
