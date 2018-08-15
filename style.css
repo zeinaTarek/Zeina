@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
   font-family:Georgia, serif;
   background-color: #ccccff
@@ -8,4 +9,19 @@ h1{
 }
 body{
   color:black
+=======
+#title{
+  color:#ffff00;
+}
+
+body{
+  background-color: black;
+  color:white;
+}
+
+img{
+  width: 60px;
+  height: 60px;
+  float:right;
+>>>>>>> 50ba69f96a7c1def590a49cb660288fac37bdacd
 }
