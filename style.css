@@ -1,0 +1,11 @@
+h1{
+  font-family:Georgia, serif;
+  background-color: #ccccff
+}
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}
+body{
+  color:black
+}
