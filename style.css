@@ -1,15 +1,14 @@
-<<<<<<< HEAD
 h1{
   font-family:Georgia, serif;
   background-color: #ccccff
 }
-.carousel-inner > .item > img {
+.carousel-inner  .item  img {
   width:640px;
   height:360px;
 }
 body{
-  color:black
-=======
+  color:black;
+}
 #title{
   color:#ffff00;
 }
@@ -23,5 +22,4 @@ img{
   width: 60px;
   height: 60px;
   float:right;
->>>>>>> 50ba69f96a7c1def590a49cb660288fac37bdacd
 }
