@@ -23,3 +23,20 @@ img{
   height: 60px;
   float:right;
 }
+
+#paragraph{
+  color:white;
+  font-style:italic;
+  font-family:monospace;
+  font-size:17px
+}
+#logo{
+  width:550px;
+  height:300px;
+  float:left;
+}
+body{
+  background-color:#0040ff;
+  color:white;
+}
+
